@@ -14,11 +14,3 @@ Olá, eu sou Anderson!!!
   <img align="center" alt="Anderson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
- ##
- 
- <div>
-   
-   ![Snake animation](https://github.com/Anderson-Bertozzi/Anderson-Bertozzi/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
