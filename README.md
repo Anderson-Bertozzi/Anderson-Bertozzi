@@ -1,4 +1,6 @@
 Olá, eu sou Anderson!!!
+
+Atualmente estou fazendo os cursos da Alura e trabalhando como Analista de Suporte!
  
  <div>
   <a href="https://github.com/Anderson-Bertozzi">
