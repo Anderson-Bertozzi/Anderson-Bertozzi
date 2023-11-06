@@ -18,9 +18,9 @@ Atualmente estou fazendo os cursos da Alura e trabalho como Analista de Suporte!
 </div>
 
 
-<div>
+//<div>
 
-![Snake animation](https://github.com/Anderson-Bertozzi/Anderson-Bertozzi/blob/output/github-contribution-grid-snake.svg)
+//![Snake animation](https://github.com/Anderson-Bertozzi/Anderson-Bertozzi/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+//</div>
 
